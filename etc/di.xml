@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- 
+/**
+ * MageHelper Custom Console(CLI) Command Magento 2
+ *
+ * @package      MageHelper_ConsoleCommand
+ * @author       Kishan Savaliya <kishansavaliyakb@gmail.com>
+ */
+ -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+    <type name="Magento\Framework\Console\CommandList">
+        <arguments>
+            <argument name="commands" xsi:type="array">
+                <item name="magehelper_custom_command_without_params" xsi:type="object">MageHelper\ConsoleCommand\Console\CommandWithoutParams</item>
+                <item name="magehelper_custom_command_something_interesting" xsi:type="object">MageHelper\ConsoleCommand\Console\SomethingInteresting</item>
+                <item name="magehelper_custom_command_with_params" xsi:type="object">MageHelper\ConsoleCommand\Console\CommandWithParams</item>
+            </argument>
+        </arguments>
+    </type>
+</config>
