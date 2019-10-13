@@ -180,7 +180,7 @@ Content for this file :
 
 **Output : Command - 1**
 
-![MageHelper Custom Console(CLI) Command Magento 2 without passing any params output](https://github.com/KishanSavaliya/magehelper-magento2-custom-console-command/blob/master/MageHelper/MageHelper-CustomConsoleCommand-Without-Passing-Params-Magento2-Output.png)
+![MageHelper Custom Console(CLI) Command Magento 2 without passing any params output](https://github.com/KishanSavaliya/magento2-custom-console-command/blob/master/MageHelper/MageHelper-CustomConsoleCommand-Without-Passing-Params-Magento2-Output.png)
 
 
 - Now we will do something interesting with Console Command output. So we will create another file for new command in `Console` directory.
@@ -263,7 +263,7 @@ Content for this file :
 
 **Output : Command - 2**
 
-![MageHelper Custom Console(CLI) Command Magento 2 with something interesting output](https://github.com/KishanSavaliya/magehelper-magento2-custom-console-command/blob/master/MageHelper/MageHelper-CustomConsoleCommand-With-Something-Interesting-Magento2-Output.png)
+![MageHelper Custom Console(CLI) Command Magento 2 with something interesting output](https://github.com/KishanSavaliya/magento2-custom-console-command/blob/master/MageHelper/MageHelper-CustomConsoleCommand-With-Something-Interesting-Magento2-Output.png)
 
 - Now in last, we will create our last command with passing argument with command. We will print multiplication table for user given number.
 
@@ -364,7 +364,7 @@ Content for this file :
 
 **Output : Command - 3**
 
-![MageHelper Custom Console(CLI) Command Magento 2 with passing argument output](https://github.com/KishanSavaliya/magehelper-magento2-custom-console-command/blob/master/MageHelper/MageHelper-CustomConsoleCommand-With-Passing-Argument-Magento2-Output.png)
+![MageHelper Custom Console(CLI) Command Magento 2 with passing argument output](https://github.com/KishanSavaliya/magento2-custom-console-command/blob/master/MageHelper/MageHelper-CustomConsoleCommand-With-Passing-Argument-Magento2-Output.png)
 
 
 
